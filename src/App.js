@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
+import VideoBackground from './components/VideoBackground';
 import ScrollToTop from './components/ScrollToTop';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
@@ -15,6 +16,7 @@ import ContactSection from './pages/ContactSection';
 import AllTeam from './pages/AllTeam';
 import BlogSection from './pages/BlogSection';
 import ProjectSection from './pages/ProjectSection';
+import AllBlogs from './pages/AllBlogs';
   
 
 
@@ -36,10 +38,11 @@ function App() {
 
   return (
     <Router>
+      <VideoBackground />
       {/* ✅ Scroll to top on route change */}
       <ScrollToTop />
 
-      <div className="bg-gray-900 text-gray-100 font-sans overflow-x-hidden">
+      <div className="text-gray-100 font-sans overflow-x-hidden"> 
         <Navbar sections={sections} />
         
         <Routes>
@@ -59,6 +62,7 @@ function App() {
             }
           />
           <Route path="/team" element={<AllTeam />} />
+          <Route path="/blogs" element={<AllBlogs />} />
         </Routes>
 
         <Footer />

@@ -1,4 +1,5 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 
 const blogPosts = [
   {
@@ -22,6 +23,8 @@ const blogPosts = [
 ];
 
 export default function BlogSection() {
+  const navigate = useNavigate();
+
   return (
     <section id="blog" className="py-24 bg-gray-950 text-white">
       <div className="max-w-7xl mx-auto px-4">
@@ -29,7 +32,7 @@ export default function BlogSection() {
           Read. Learn. Inspire.
         </h2>
 
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-10">
           {blogPosts.map((post, index) => (
             <div
               key={index}
@@ -50,6 +53,16 @@ export default function BlogSection() {
               </a>
             </div>
           ))}
+        </div>
+
+        {/* View All Button */}
+        <div className="text-center">
+          <button
+            onClick={() => navigate('/blogs')}
+            className="inline-block px-6 py-3 bg-orange-500 text-white rounded-lg font-medium hover:bg-orange-700 transition duration-300"
+          >
+            View All Blogs →
+          </button>
         </div>
       </div>
     </section>

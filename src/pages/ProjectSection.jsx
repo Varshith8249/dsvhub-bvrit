@@ -4,7 +4,7 @@ const projects = [
   {
     title: 'Smart Waste Reporting System',
     description: 'A web app for citizens to report waste issues using image upload and geolocation.',
-    tech: ['React', 'Firebase', 'Tailwind'],
+    tech: ['React', 'Firebase', 'Tailwind', 'Computer Vision'],
     link: 'https://github.com/your-repo',
   },
   {

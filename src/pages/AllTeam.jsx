@@ -29,7 +29,7 @@ export default function AllTeam() {
               <img
                 src={member.image}
                 alt={member.name}
-                className="w-full h-56 object-cover object-top scale-[1.4] -translate-y-11 transition-transform"
+                className="w-full h-56 object-cover object-top scale-[1.3] -translate-y-8 transition-transform"
               />
 
               {/* Overlay with name + role */}
