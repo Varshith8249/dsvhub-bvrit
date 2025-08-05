@@ -3,19 +3,14 @@ import React from 'react';
 export default function EventsSection() {
   const events = [
     {
-      title: "Intro to Python for Data Science",
-      date: "Aug 20, 2025",
-      desc: "Basics of Python and key libraries like Pandas and NumPy.",
+      title: "Inauguration",
+      date: "Mar 22, 2024",
+      desc: "The launch of the Data Science Visionary Hub marks the beginning of a transformative journey towards data-driven excellence and innovation.",
     },
     {
-      title: "ML Model Deployment",
-      date: "Sep 5, 2025",
-      desc: "Deploy ML models using Flask and Streamlit.",
-    },
-    {
-      title: "Data Visualization with Tableau",
-      date: "Oct 10, 2025",
-      desc: "Design dashboards with Tableau for real-world data.",
+      title: "Wiztrek",
+      date: "Sep 13, 2024",
+      desc: "Brain Buster Data Challenge brings together curious minds on an exciting journey of analytical thinking, data-driven problem solving, and decoding real-world insights.",
     },
   ];
 

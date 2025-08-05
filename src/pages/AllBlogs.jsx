@@ -3,22 +3,40 @@ import React from 'react';
 const allBlogPosts = [
   // Add more blog posts here
   {
-    title: 'Getting Started with Machine Learning',
-    date: 'August 3, 2025',
-    description: 'An introduction to basic ML concepts and practical tips for beginners.',
-    link: 'https://example.com/ml-guide',
+    title: 'Introducing the Data Science Visionary Hub',
+    date: 'August 06, 2025',
+    description: 'Your vision, our hub — let’s spark a data revolution.',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/128acd500186',
   },
   {
-    title: '5 Data Visualization Libraries in Python',
-    date: 'July 25, 2025',
-    description: 'Explore the best libraries to visualize data effectively — from Matplotlib to Plotly.',
-    link: 'https://example.com/python-viz',
+    title: 'Laying the Foundation',
+    date: 'August 06, 2025',
+    description: 'The Story of Our Inauguration.',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/6180f55b4899',
   },
   {
-    title: 'How to Build a Data Science Portfolio',
-    date: 'July 10, 2025',
-    description: 'Learn what to include in a standout portfolio for internships and jobs.',
-    link: 'https://example.com/portfolio-tips',
+    title: 'Wiztrek: Brain Buster Data Challenge',
+    date: 'August 06, 2025',
+    description: 'A Thrilling Ride Through Data & Decoding.',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/82a7088c6c2a',
+  },
+  {
+    title: 'Data Science, The Student Edition',
+    date: 'August 06, 2025',
+    description: 'Learn It Your Way.',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/3843da886da6',
+  },
+  {
+    title: 'Mastering Data Types',
+    date: 'August 06, 2025',
+    description: 'The Foundation of Data Science and ML.',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/613a77e91507',
+  },
+  {
+    title: 'Embedded Systems with Arduino',
+    date: 'August 06, 2025',
+    description: 'Practical Training Session.',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/64c061c71d83',
   },
   // Add more as needed
 ];

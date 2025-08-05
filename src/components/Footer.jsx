@@ -68,7 +68,7 @@ export default function Footer() {
             <a href="https://github.com" target="_blank" rel="noreferrer">
               <FaGithub className="text-2xl text-gray-400 hover:text-white transition" />
             </a>
-            <a href="https://www.instagram.com/dsv_hub_2024" target="_blank" rel="noreferrer">
+            <a href="https://www.instagram.com/dsvhub_bvrit" target="_blank" rel="noreferrer">
               <FaInstagram className="text-2xl text-gray-400 hover:text-pink-500 transition" />
             </a>
             <a href="https://twitter.com" target="_blank" rel="noreferrer">
