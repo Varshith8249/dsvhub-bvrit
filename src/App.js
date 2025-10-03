@@ -17,6 +17,7 @@ import AllTeam from './pages/AllTeam';
 import BlogSection from './pages/BlogSection';
 import ProjectSection from './pages/ProjectSection';
 import AllBlogs from './pages/AllBlogs';
+import AllEvents from './pages/AllEvents';
   
 
 
@@ -63,6 +64,7 @@ function App() {
           />
           <Route path="/team" element={<AllTeam />} />
           <Route path="/blogs" element={<AllBlogs />} />
+          <Route path="/events" element={<AllEvents />} />
         </Routes>
 
         <Footer />

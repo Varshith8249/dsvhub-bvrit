@@ -4,39 +4,45 @@ const allBlogPosts = [
   // Add more blog posts here
   {
     title: 'Introducing the Data Science Visionary Hub',
-    date: 'August 06, 2025',
+    date: 'August 07, 2025',
     description: 'Your vision, our hub — let’s spark a data revolution.',
-    link: 'https://medium.com/@bvritn.cse.dsvhub/128acd500186',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/introducing-the-data-science-visionary-hub-your-vision-our-hub-lets-spark-a-data-revolution-128acd500186',
   },
   {
     title: 'Laying the Foundation',
-    date: 'August 06, 2025',
+    date: 'August 07, 2025',
     description: 'The Story of Our Inauguration.',
-    link: 'https://medium.com/@bvritn.cse.dsvhub/6180f55b4899',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/laying-the-foundation-the-story-of-our-inauguration-6180f55b4899',
   },
   {
     title: 'Wiztrek: Brain Buster Data Challenge',
-    date: 'August 06, 2025',
+    date: 'August 07, 2025',
     description: 'A Thrilling Ride Through Data & Decoding.',
-    link: 'https://medium.com/@bvritn.cse.dsvhub/82a7088c6c2a',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/wiztrek-brain-buster-data-challenge-a-thrilling-ride-through-data-decoding-82a7088c6c2a',
   },
   {
     title: 'Data Science, The Student Edition',
-    date: 'August 06, 2025',
+    date: 'August 08, 2025',
     description: 'Learn It Your Way.',
-    link: 'https://medium.com/@bvritn.cse.dsvhub/3843da886da6',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/data-science-the-student-edition-learn-it-your-way-3843da886da6',
   },
   {
     title: 'Mastering Data Types',
-    date: 'August 06, 2025',
+    date: 'August 08, 2025',
     description: 'The Foundation of Data Science and ML.',
-    link: 'https://medium.com/@bvritn.cse.dsvhub/613a77e91507',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/mastering-data-types-the-foundation-of-data-science-and-ml-613a77e91507',
   },
   {
     title: 'Embedded Systems with Arduino',
-    date: 'August 06, 2025',
+    date: 'August 08, 2025',
     description: 'Practical Training Session.',
-    link: 'https://medium.com/@bvritn.cse.dsvhub/64c061c71d83',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/embedded-systems-with-arduino-practical-training-session-64c061c71d83',
+  },
+  {
+    title: 'Agentic AI & HDAC’s 2nd Anniversary',
+    date: 'September 08, 2025',
+    description: 'A Celebration of Ideas, Innovation, and Impact.',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/agentic-ai-hdacs-2nd-anniversary-a-celebration-of-ideas-innovation-and-impact-9e79e953097b',
   },
   // Add more as needed
 ];

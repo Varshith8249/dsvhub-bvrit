@@ -2,22 +2,16 @@ import React from 'react';
 
 const projects = [
   {
-    title: 'Smart Waste Reporting System',
-    description: 'A web app for citizens to report waste issues using image upload and geolocation.',
-    tech: ['React', 'Firebase', 'Tailwind', 'Computer Vision'],
-    link: 'https://github.com/your-repo',
-  },
-  {
-    title: 'Data Science Portfolio Builder',
-    description: 'An interactive tool for students to create and showcase their DS portfolios.',
-    tech: ['Python', 'Flask', 'Bootstrap'],
-    link: 'https://example.com/demo',
-  },
-  {
-    title: 'AI Resume Scanner',
-    description: 'ML-powered resume ranker for campus recruitment assistance.',
-    tech: ['Sklearn', 'NLP', 'Streamlit'],
+    title: 'Soil Health Monitoring System',
+    description: 'A web-based IoT solution for real-time monitoring of soil moisture and temperature in agricultural fields.',
+    tech: ['Arduino IDE', 'Android Application', 'Arduino UNO', 'Soil Moisture Sensor', 'DHT11', 'ESP8266 Wi-Fi Module', 'GSM Module'],
     link: '',
+  },
+  {
+    title: 'Google Earth Engine Dashboard',
+    description: 'A web-based dashboard that leverages satellite imagery and geospatial datasets to analyze environmental, agricultural, and climatic trends.',
+    tech: ['JavaScript API', 'Google Earth Engine', 'GeoJSON', 'Leaflet'],
+    link: 'https://gee-insights.vercel.app/', // replace with your demo/project link if hosted
   },
 ];
 

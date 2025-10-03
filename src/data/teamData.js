@@ -22,7 +22,7 @@ import DesigningSupport2 from '../images/team/24215a05261.jpg';
 import DesigningSupport3 from '../images/team/24215a05291.jpg';
 
 import SocialMediaChairperson from '../images/team/23211a05x9.jpg';
-import SocialMediaHead from '../images/team/23211a05v4.jpg';
+import SocialMediaHead from '../images/team/23211a05v41.jpg';
 import SocialMediaSupport1 from '../images/team/23211a05851.jpg';
 import SocialMediaSupport2 from '../images/team/23211a05b61.jpg';
 import SocialMediaSupport3 from '../images/team/23211a05w6.jpg';
@@ -30,7 +30,7 @@ import SocialMediaSupport3 from '../images/team/23211a05w6.jpg';
 import MarketingChairperson from '../images/team/23211a05b7.jpg';
 import MarketingHead from '../images/team/23211a05811.jpg';
 import MarketingSupport1 from '../images/team/23211a05x2.jpg';
-import MarketingSupport2 from '../images/team/24215a0533.jpg';
+import MarketingSupport2 from '../images/team/24215a05331.jpg';
 
 import ChiefCollaborationHead from '../images/team/23211a05r31.jpg';
 

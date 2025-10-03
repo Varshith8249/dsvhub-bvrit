@@ -6,19 +6,19 @@ const blogPosts = [
     title: 'Introducing the Data Science Visionary Hub',
     date: 'August 06, 2025',
     description: 'Your vision, our hub — let’s spark a data revolution.',
-    link: 'https://medium.com/@bvritn.cse.dsvhub/128acd500186',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/introducing-the-data-science-visionary-hub-your-vision-our-hub-lets-spark-a-data-revolution-128acd500186 ',
   },
   {
     title: 'Laying the Foundation',
     date: 'August 06, 2025',
     description: 'The Story of Our Inauguration.',
-    link: 'https://medium.com/@bvritn.cse.dsvhub/6180f55b4899',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/laying-the-foundation-the-story-of-our-inauguration-6180f55b4899',
   },
   {
     title: 'Wiztrek: Brain Buster Data Challenge',
     date: 'August 06, 2025',
     description: 'A Thrilling Ride Through Data & Decoding.',
-    link: 'https://medium.com/@bvritn.cse.dsvhub/82a7088c6c2a',
+    link: 'https://medium.com/@bvritn.cse.dsvhub/wiztrek-brain-buster-data-challenge-a-thrilling-ride-through-data-decoding-82a7088c6c2a',
   },
 ];
 
