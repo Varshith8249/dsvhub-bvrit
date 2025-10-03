@@ -17,7 +17,7 @@ const quickLinks = [
 // Data for social media links
 const socialLinks = [
   { Icon: FaTwitter, href: "https://twitter.com/your-profile", label: "Twitter" },
-  { Icon: FaInstagram, href: "https://www.instagram.com/your-profile", label: "Instagram" },
+  { Icon: FaInstagram, href: "https://www.instagram.com/dsvhub_bvrit", label: "Instagram" },
   { Icon: FaLinkedin, href: "https://www.linkedin.com/your-profile", label: "LinkedIn" },
   { Icon: FaGithub, href: "https://github.com/your-profile", label: "GitHub" },
 ];
